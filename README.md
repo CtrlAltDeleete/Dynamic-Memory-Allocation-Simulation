@@ -11,3 +11,4 @@ First Fit	Allocates the first memory block that is large enough
 Best Fit	Allocates the smallest block that fits the process	
 Worst Fit	Allocates the largest available block	
 Next Fit	Like First Fit, but continues search from last allocated block	
+![Demo](GUI.png)
